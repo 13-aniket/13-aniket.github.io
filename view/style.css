@@ -10,7 +10,7 @@
 }
 
 .header {
-    background-color: 09A058;
+    background-color: #09A058;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
